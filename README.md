@@ -18,4 +18,4 @@ Use the image by running:
     -v </Path/To/Your/Videos>:/Videos \
     genghistuan/vlc
 ```
-The Docker Hub link is [genghistuan/docker-vlc](https://hub.docker.com/r/genghistuan/docker-vlc/)
+The Docker Hub link is [genghistuan/docker-vlc](https://hub.docker.com/r/genghistuan/docker-docker-vlc/)

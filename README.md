@@ -16,6 +16,6 @@ Use the image by running:
     -e DISPLAY \
     -v /tmp/.X11-unix:/tmp/.X11-unix \
     -v </Path/To/Your/Videos>:/Videos \
-    genghistuan/vlc
+    genghistuan/docker-vlc
 ```
 The Docker Hub link is [genghistuan/docker-vlc](https://hub.docker.com/r/genghistuan/docker-vlc/)

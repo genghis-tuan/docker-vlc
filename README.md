@@ -7,7 +7,7 @@ Containers using this image run the latest VLC server available from the standar
 The VLC player will play videos as stream feeds such as RTSP. Audio is not supported for hosts with /dev/snd.
 
 
-Use the image by running:
+Use the image by running the following command (parts in square brackets are optional). No video path is needed unless video files will be played.:
 
 ```
     docker run --rm \

@@ -4,7 +4,7 @@ Docker VLC image
 Simple Ubuntu 16.04 container with VLC installed. 
 
 Containers using this image run the latest VLC server available from the standard Ubuntu Xenial repository.
-The VLC player will play videos as stream feeds such as RTSP. Audio is not supported for hosts with /dev/snd.
+The VLC player will play videos as streamed feeds such as RTSP and will play video files. Audio is supported for hosts with /dev/snd.
 
 
 Use the image by running the following command (parts in square brackets are optional). No video path is needed unless video files will be played.:
